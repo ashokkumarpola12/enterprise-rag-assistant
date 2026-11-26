@@ -1,0 +1,33 @@
+
+[
+  {
+    "question": "How does Spring Boot handle authentication and authorization?",
+    "expectedRelevantChunkIndexes": [4],
+    "answerable": true
+  },
+  {
+    "question": "What is the annual revenue of Microsoft in 2025?",
+    "expectedRelevantChunkIndexes": [],
+    "answerable": false
+  },
+  {
+    "question": "What does Spring Boot Actuator provide?",
+    "expectedRelevantChunkIndexes": [3, 4],
+    "answerable": true
+  },
+  {
+    "question": "What is the responsibility of the Controller layer?",
+    "expectedRelevantChunkIndexes": [2],
+    "answerable": true
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "expectedRelevantChunkIndexes": [],
+    "answerable": false
+  },
+  {
+    "question": "What is the current stock price of Tesla?",
+    "expectedRelevantChunkIndexes": [],
+    "answerable": false
+  }
+]
